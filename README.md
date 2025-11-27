@@ -3,54 +3,74 @@
 
 ---
 
-### 🚀 About Me
-Aspiring Software Engineer with strong foundations in **Data Structures & Algorithms, Java, JavaScript**, and **backend development**.  
-I enjoy building scalable backend systems, designing REST APIs, and deploying real projects on cloud platforms like **AWS** and **Render**.
+## 🚀 About Me
+
+I'm an aspiring **Software Engineer** with strong foundations in **Data Structures & Algorithms**,  
+proficient in **Java**, **JavaScript**, and **backend development**.
+
+I enjoy:
+- ⚙️ Building scalable backend systems  
+- 🔗 Designing clean and efficient REST APIs  
+- ☁️ Deploying real-world applications on **AWS** and **Render**  
+- 🧩 Solving challenging problems and writing clean, maintainable code  
+
+I'm continuously improving my skills and exploring modern backend technologies to build reliable and impactful systems.
+
 
 ---
 
-### 🛠️ Tech Stack
+## 🛠️ Tech Stack
 
-**Languages:**  
-Java • JavaScript (ES6+) • Python (Basics) • SQL  
+### 🔹 Languages  
+💻 Java &nbsp;•&nbsp; ⚡ JavaScript (ES6+) &nbsp;•&nbsp; 🐍 Python (Basics) &nbsp;•&nbsp; 🗄 SQL  
 
-**Backend:**  
-Node.js • Express.js • REST APIs • JWT Authentication • Mongoose • MySQL  
+### 🔹 Backend  
+🛠️ Node.js &nbsp;•&nbsp; 🚀 Express.js &nbsp;•&nbsp; 🔗 REST APIs  🔐 JWT Auth &nbsp;•&nbsp; 🍃 Mongoose &nbsp;•&nbsp; 🗃 MySQL  
 
-**Frontend:**  
-React.js • HTML • CSS • Tailwind CSS • Bootstrap  
+### 🔹 Frontend  
+⚛️ React.js &nbsp;•&nbsp; 🎨 HTML & CSS &nbsp;•&nbsp; 🌬️ Tailwind CSS &nbsp;•&nbsp; 
 
-**Databases:**  
-MongoDB • MySQL  
+### 🔹 Databases  
+🍃 MongoDB &nbsp;•&nbsp; 🗂 MySQL  
 
-**Cloud & Deployment:**  
-AWS EC2 • AWS S3 (Basics) • Render • GitHub Pages  
+### 🔹 Cloud & Deployment  
+☁️ AWS EC2 &nbsp;•&nbsp; 🗄️ AWS S3 &nbsp;•&nbsp; 🚀 Render &nbsp;•&nbsp; 🌐 GitHub Pages  
 
-**Tools:**  
-Git • GitHub • Postman • VS Code • IntelliJ IDEA • npm  
+### 🔹 Tools  
+🐙 Git &nbsp;•&nbsp; 📦 GitHub &nbsp;•&nbsp; 🧪 Postman &nbsp;•&nbsp; 💻 VS Code &nbsp;•&nbsp; 🟣 IntelliJ IDEA &nbsp;•&nbsp; 
+
 
 ---
-### 🔥 Featured Projects
+## 🔥 Featured Projects
 
-- 🏏 **Quick Court – Sports Venue Booking**  
-  MERN-based platform for real-time sports venue booking  
-  👉 [GitHub Repo](https://github.com/nishant443/Quick-Court)
+### 🏏 Quick Court – Sports Venue Booking  
+A MERN-based real-time sports venue booking system with OTP login, smart pricing, dashboards, and Cloudinary integration.  
+🔗 **Repo:** https://github.com/nishant443/Quick-Court  
 
-- 📚 **Study Nation – Educational Platform**  
-  Full-stack LMS enabling course creation, video-based learning, secure payments, and multi-role access  
-  👉 [GitHub Repo](https://github.com/nishant443/Studynotion)
+---
 
-- 🔄 **Skill Swap Platform – Backend API**  
-  Backend system for connecting users via skill exchange  
-  👉 [View Project](https://github.com/trex-ayush/Skill-swap-platform)
+### 📚 Study Nation – Educational Platform  
+A full-stack LMS supporting course creation, video learning, secure payments (Razorpay), and multi-role access (Admin/Instructor/Student).  
+🔗 **Repo:** https://github.com/nishant443/Studynotion  
 
-- 🛒 **ShopSmart – Shopping App**  
-  Product listing & cart management  
-  👉 [View Repo](https://github.com/nishant443/ShopSmart)
+---
 
-- 📋 **Task Management App**  
-  Simple task manager with CRUD operations  
-  👉 [View Repo](https://github.com/nishant443/Task-management)
+### 🔄 Skill Swap Platform – Backend API  
+A modular backend system enabling skill exchange with JWT auth, role-based access, and workflow-based interactions.  
+🔗 **Repo:** https://github.com/trex-ayush/Skill-swap-platform  
+
+---
+
+### 🛒 ShopSmart – Shopping App  
+A simple product listing and cart management application built with clean UI and essential shopping workflows.  
+🔗 **Repo:** https://github.com/nishant443/ShopSmart  
+
+---
+
+### 📋 Task Management App  
+Lightweight task manager supporting CRUD operations with a clean and minimal UI.  
+🔗 **Repo:** https://github.com/nishant443/Task-management  
+
 
 
 ---
